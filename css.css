@@ -3,5 +3,15 @@ body{
 }
 h1{
     color: navy;
-    margin-left: 20px;
+    text-align: center;
+    font-size: 250%;
+    background-color: white;
+}
+h2{
+    font-size: 200%;
+    background-color: yellow;
+
+}
+h3{
+    font-size: 150%;
 }
